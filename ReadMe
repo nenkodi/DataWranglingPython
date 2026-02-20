@@ -1,1 +1,33 @@
-# Data Wrangling with Python
+Muhammad Ali - course leader
+
+
+https://www.learningtree.co.uk/mylearningtree/courses/2621AMEN
+
+Dimitar.nenkov@ec.europa.eu
+Hanaa@1001
+
+Command to be typed:
+CD~/crs1273
+Conda activate crs1273
+Jupyter-lab
+
+
+cd ~/crs1273
+conda activate crs1273
+jupyter-lab
+
+
+
+This is to try Jupyter Lab
+https://jupyter.org/try-jupyter/lab/
+
+
+This is an example of setting values to variables:
+
+
+The code usually reads left to right. 3.50 has to be stored to coffee.
+
+Slide 20: 
+
+80% of work is cleaning the data in data science.
+
